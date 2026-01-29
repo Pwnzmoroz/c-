@@ -1,0 +1,14 @@
+C:\Code\moroz\bin\Debug\net10.0\moroz.exe
+C:\Code\moroz\bin\Debug\net10.0\moroz.deps.json
+C:\Code\moroz\bin\Debug\net10.0\moroz.runtimeconfig.json
+C:\Code\moroz\bin\Debug\net10.0\moroz.dll
+C:\Code\moroz\bin\Debug\net10.0\moroz.pdb
+C:\Code\moroz\obj\Debug\net10.0\moroz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\moroz\obj\Debug\net10.0\moroz.AssemblyInfoInputs.cache
+C:\Code\moroz\obj\Debug\net10.0\moroz.AssemblyInfo.cs
+C:\Code\moroz\obj\Debug\net10.0\moroz.csproj.CoreCompileInputs.cache
+C:\Code\moroz\obj\Debug\net10.0\moroz.dll
+C:\Code\moroz\obj\Debug\net10.0\refint\moroz.dll
+C:\Code\moroz\obj\Debug\net10.0\moroz.pdb
+C:\Code\moroz\obj\Debug\net10.0\moroz.genruntimeconfig.cache
+C:\Code\moroz\obj\Debug\net10.0\ref\moroz.dll
